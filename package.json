@@ -1,0 +1,29 @@
+{
+  "name": "bigg-model-downloader",
+  "version": "0.1.0",
+  "description": "downloads all bigg models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qacwnfq/bigg-model-downloader.git"
+  },
+  "keywords": [
+    "bigg",
+    "models",
+    "download",
+    "sbml"
+  ],
+  "author": "Johann Fredrik Jadebeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qacwnfq/bigg-model-downloader/issues"
+  },
+  "homepage": "https://github.com/qacwnfq/bigg-model-downloader#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
