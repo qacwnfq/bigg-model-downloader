@@ -34,6 +34,6 @@ function generateSbmlFileName(model) {
 }
 
 function getDownloadPath() {
-    return 'model';
+    return 'models';
 }
 
